@@ -1,0 +1,5 @@
+.rodape{
+    background-color: var(--branco);
+    border-top: 0.5px solid rgb(200, 200, 200);
+    padding: 1em 1em 2em 1em;
+}
